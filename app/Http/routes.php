@@ -17,3 +17,4 @@ Route::get('/', function () {
 
 
 Route::get('admin/categories','CategoriesController@index');
+Route::get('admin/categories/create',['as'=>'admin.categories.create', 'uses'=>'CategoriesController@create']);

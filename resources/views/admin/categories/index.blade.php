@@ -9,7 +9,7 @@
 
 
 
-        <a href="#" class="btn btn-default">Nova categoria</a>
+        <a href="{{route('admin.categories.create')}}" class="btn btn-default">Nova categoria</a>
 
         <br><br>
 
@@ -25,11 +25,11 @@
 
             <tbody>
             @foreach($categories as $category)
-            <tr>
-                <td>{{$category->id}}</td>
-                <td>{{$category->name}}</td>
-                <td></td>
-            </tr>
+                <tr>
+                    <td>{{$category->id}}</td>
+                    <td>{{$category->name}}</td>
+                    <td></td>
+                </tr>
             @endforeach
             </tbody>
 
