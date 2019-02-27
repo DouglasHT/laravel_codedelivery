@@ -29,6 +29,17 @@ Route::group(['prefix'=>'admin', 'middleware'=>'auth.checkrole', 'as'=>'admin.']
 
     });
 
+    Route::group(['prefix'=>'clients', 'as'=>'clients.'],function(){
+
+        Route::get('', ['as'=>'index', 'uses'=>'ClientsController@index']);
+        Route::get('create',['as'=>'create', 'uses'=>'ClientsController@create']);
+        Route::get('edit/{id}',['as'=>'edit', 'uses'=>'ClientsController@edit']);
+
+        Route::post('update/{id}',['as'=>'update', 'uses'=>'ClientsController@update']);
+        Route::post('store',['as'=>'store', 'uses'=>'ClientsController@store']);
+
+    });
+
 
     Route::group(['prefix'=>'products', 'as'=>'products.'],function(){
 
