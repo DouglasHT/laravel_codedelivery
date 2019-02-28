@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22754cb0-3a10-4534-9e05-b2e621f20b10" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ClientsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ClientsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/Client.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/Client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Providers/RepositoryServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RepositoryServiceProvider.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -293,7 +290,7 @@
       <workItem from="1551284755333" duration="7482000" />
       <workItem from="1551292258582" duration="2107000" />
       <workItem from="1551364601669" duration="599000" />
-      <workItem from="1551378838569" duration="5103000" />
+      <workItem from="1551378838569" duration="5121000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1551119484363</created>
@@ -337,15 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551296251043</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update 201902281659">
+      <created>1551383961687</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1551383961687</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44290000" />
+    <option name="totallyTimeSpent" value="44308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19477054" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -378,7 +381,8 @@
     <MESSAGE value="Update 201902271506" />
     <MESSAGE value="Update 201902271543" />
     <MESSAGE value="Update 201902271637" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 201902271637" />
+    <MESSAGE value="Update 201902281659" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 201902281659" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/Http/Requests/AdminCategoryRequest.php">
