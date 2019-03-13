@@ -43,5 +43,9 @@ class RepositoryServiceProvider extends ServiceProvider
             'CodeDelivery\Repositories\CupomRepository',
             'CodeDelivery\Repositories\CupomRepositoryEloquent'
         );
+
+
+
+
     }
 }
