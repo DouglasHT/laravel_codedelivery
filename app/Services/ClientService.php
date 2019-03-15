@@ -37,10 +37,6 @@ class ClientService
 
         $data['user_id'] = $user->id;
         $this->clientRepository->create($data);
-
-
-
-
     }
 
 }
