@@ -4,15 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/app/Http/Controllers/CheckoutController.php" line="64" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22754cb0-3a10-4534-9e05-b2e621f20b10" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CheckoutController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CheckoutController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Services/ClientService.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Services/ClientService.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/seeds/UserTableSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/UserTableSeeder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/customer/order/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/customer/order/create.blade.php" afterDir="false" />
-    </list>
+    <list default="true" id="22754cb0-3a10-4534-9e05-b2e621f20b10" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -376,7 +368,7 @@
       <workItem from="1552571664661" duration="7795000" />
       <workItem from="1552657714285" duration="58000" />
       <workItem from="1552657887639" duration="4998000" />
-      <workItem from="1552669763315" duration="7233000" />
+      <workItem from="1552669763315" duration="7275000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1551119484363</created>
@@ -462,11 +454,18 @@
       <option name="project" value="LOCAL" />
       <updated>1552503050743</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Update 201903151612">
+      <created>1552677140525</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1552677140525</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105771000" />
+    <option name="totallyTimeSpent" value="105813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -529,7 +528,8 @@
     <MESSAGE value="Update 201903071115" />
     <MESSAGE value="Update 201903131316" />
     <MESSAGE value="Update 201903131550" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update 201903131550" />
+    <MESSAGE value="Update 201903151612" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 201903151612" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/database/seeds/CupomsTableSeeder.php" />
